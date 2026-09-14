@@ -1,6 +1,3 @@
-# CookieCat_AB_Testing
-A/B test analysis of Cookie Cats' progression gate placement (level 30 vs. 40), examining player retention and engagement across 90K+ users. Includes SRM validation, multi-method outlier detection, and hypothesis testing (chi-square, z-test, Mann-Whitney U, Welch's t-test) in Python to drive a data-backed launch recommendation.
-
 # Cookie Cats A/B Testing: Gate Placement & Player Retention
 
 An end-to-end A/B test analysis examining whether moving a progression gate from level 30 to level 40 in the mobile game **Cookie Cats** affects player retention and engagement.
