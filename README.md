@@ -49,7 +49,7 @@ Distribution checks and summary statistics for group sizes, retention rates, and
 Verified zero missing values and zero duplicate user IDs before proceeding.
 
 ### 3. Validity Check — Sample Ratio Mismatch (SRM)
-A chi-square goodness-of-fit test on the observed group split (44,700 vs. 45,489) returned **χ² = 6.90, p = 0.0086**. This flags at conventional thresholds (α = 0.05, 0.01) but not at the stricter α = 0.001 threshold some experimentation platforms (e.g., Microsoft ExP) use specifically to control false positives at scale. Treated as a caveat rather than a disqualifier.
+A chi-square goodness-of-fit test on the observed group split (44,700 vs. 45,489) returned **χ² = 6.90, p = 0.0086**. This flags at conventional thresholds (α = 0.05, 0.01) but not at the stricter α = 0.001 threshold some experimentation platforms (e.g., Microsoft ExP) use specifically to control false positives at scale. 
 
 ### 4. Outlier Detection & Treatment
 Cross-validated outliers in `sum_gamerounds` using four methods:
