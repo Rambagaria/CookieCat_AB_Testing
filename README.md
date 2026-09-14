@@ -81,7 +81,7 @@ One extreme outlier (49,854 rounds played) was removed prior to hypothesis testi
 
 ## Recommendation
 
-**Keep the gate at level 30.** It shows significantly better 7-day retention — the more meaningful long-term metric — with no offsetting gain in engagement or short-term retention from delaying the gate to level 40.
+**Keep the gate at level 30.** It shows significantly better 7-day retention, the more meaningful long-term metric with no offsetting gain in engagement or short-term retention from delaying the gate to level 40.
 
 ## Tech Stack
 
