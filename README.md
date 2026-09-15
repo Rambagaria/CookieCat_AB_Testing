@@ -2,11 +2,6 @@
 
 An end-to-end A/B test analysis examining whether moving a progression gate from level 30 to level 40 in the mobile game **Cookie Cats** affects player retention and engagement.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![pandas](https://img.shields.io/badge/pandas-data--analysis-150458)
-![scipy](https://img.shields.io/badge/scipy-statistics-8CAAE6)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-outlier--detection-F7931E)
-
 ## Business Problem
 
 Cookie Cats gates progression at level 30, requiring players to either wait or make an in-app purchase to continue. The product team wants to know whether moving this gate to level 40 changes:
